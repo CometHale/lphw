@@ -1,0 +1,2 @@
+To run a python, use the python2.7 command (maybe add an alias instead) 
+		ALIAS:pyth
